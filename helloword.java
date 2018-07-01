@@ -1,5 +1,5 @@
 #helloworld
-public class Helloworld{
+public class helloworld{
 
 
 	public static void main(String[] args){
